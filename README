@@ -1,0 +1,21 @@
+app Kyvi
+
+create virtual venv
+
+ py -m venv venv
+
+activate virtual venv
+
+ .\venv\Scripts\activate
+
+Install Kivy
+
+ pip install kivy (it require some seconds)
+
+Working With Kivy Widgets:
+Creamo il primo HelloKivy App
+
+Creamo il file nella cartella progetto 
+
+seguendo la guida https://realpython.com/mobile-app-kivy-python/#understanding-the-kivy-framework
+
